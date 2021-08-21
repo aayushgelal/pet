@@ -805,6 +805,7 @@ body {
 .carousel_item .carousel_image img {
   width: 130px;
   object-fit: cover;
+  border-radius: 300px;
 }
 
 .carousel_item .carousel_text {
@@ -903,6 +904,7 @@ body {
 }
 
 .teams_content .teams_item .image {
+  
 }
 
 .teams_item img {
